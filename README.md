@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning data, yeah,just data
+- 🌱 I’m currently learning data, yeah, just data!
 - 👯 I’m looking to collaborate on data related products
 - 📫 How to reach me: contact@sulabhshrestha.com or tsulabh4@gmail.com
 
