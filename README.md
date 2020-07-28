@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning data, yeah, just data!
 - 👯 I’m looking to collaborate on data related products
 - 📫 How to reach me: contact@sulabhshrestha.com or tsulabh4@gmail.com
-- 🤔 I’m looking for help with data
+- 🤔 I’m looking for help with data <br />
 [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)]
 
 <!--
