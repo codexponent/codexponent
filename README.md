@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on data related products
 - 📫 How to reach me: contact@sulabhshrestha.com or tsulabh4@gmail.com
 - 🤔 I’m looking for help with data <br />
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)]
+![HitCount](http://hits.dwyl.com/{username}/{project}.svg)
 
 <!--
 **codexponent/codexponent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
