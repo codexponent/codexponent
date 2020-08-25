@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SQL
+- 🔭 I’m currently working on data
 - 🌱 I’m currently learning data, yeah, just data!
 - 👯 I’m looking to collaborate on data related products
 - 📫 How to reach me: tsulabh4@gmail.com
