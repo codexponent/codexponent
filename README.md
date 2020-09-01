@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning data, yeah, just data!
 - 👯 I’m looking to collaborate on data related products
 - 📫 How to reach me: tsulabh4@gmail.com
+- 💬 Ask me about data
 - :notebook: I'm writing blogs in [Medium](https://medium.com/@sulabh4)
 - 🤔 I’m looking for help with data <br />
 ![HitCount](http://hits.dwyl.com/{username}/{project}.svg)
