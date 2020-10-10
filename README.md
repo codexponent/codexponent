@@ -10,7 +10,7 @@
 ![HitCount](http://hits.dwyl.com/{username}/{project}.svg)
 
 ### Spotify Playing
-[![Spotify](https://https://novatorem.codexponent.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://https://novatorem.codexponent.vercel.app/api/spotify)](https://open.spotify.com/user/xgtycygqlxlj7sqrpreko6171)
 
 
 <!--
