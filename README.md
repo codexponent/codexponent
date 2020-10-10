@@ -9,6 +9,10 @@
 - 🤔 I’m looking for help with data <br />
 ![HitCount](http://hits.dwyl.com/{username}/{project}.svg)
 
+### Spotify Playing
+[![Spotify](https://https://novatorem.codexponent.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 <!--
 **codexponent/codexponent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
