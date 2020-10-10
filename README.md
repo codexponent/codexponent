@@ -24,7 +24,7 @@
 <img align="left" alt="AWS Lambda" width="26px" src="https://seeklogo.com/images/A/aws-lambda-logo-AE95CFC218-seeklogo.com.png" />
 <img align="left" alt="AWS Route 53" width="26px" src="https://seeklogo.com/images/A/aws-route-53-logo-EEB0D14819-seeklogo.com.png" />
 <img align="left" alt="AWS CloudWatch" width="26px" src="https://seeklogo.com/images/A/aws-cloudwatch-logo-8B43061EA1-seeklogo.com.png" />
-<img align="left" alt="AWS IAM" width="26px" src="https://seeklogo.com/images/A/aws-iam-identity-and-access-management-logo-99B1CACF5A-seeklogo.com.png" />
+
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
