@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sulabh Shrestha</h1>
-<h2 align="center">A charismatic computer science enthusiastic facing today's challenge in the field of data. I am genuinely interested in cloud computing and problem solving.</h3>
+<h2 align="center">Hi 👋, I'm Sulabh Shrestha</h1>
+<h3 align="center">A charismatic computer science enthusiastic facing today's challenge in the field of data. I am genuinely interested in cloud computing and problem solving.</h3>
 
 - 🌱 I’m currently learning **Data Engineering**
 - 👨‍💻 All of my projects are available at [https://github.com/codexponent](https://github.com/codexponent)
@@ -8,13 +8,13 @@
 - 📫 How to reach me **tsulabh4@gmail.com**
 - 📄 Know about my experiences [http://sulabhshrestha.com/](http://sulabhshrestha.com/)
 
-<h2 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sulabhshrestha" height="30" width="40" /></a>
 <a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sulabh4" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
