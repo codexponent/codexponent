@@ -1,4 +1,5 @@
-<h3 align="center">Hi 👋, I'm Sulabh Shrestha</h3>
+<!--<h3 align="center">Hi 👋, I'm Sulabh Shrestha</h3>-->
+<img align="center" alt="Photo" src="./ShresthaSulabh.png" />
 <h4 align="center">A charismatic computer science enthusiastic facing today's challenge in the field of data. I am genuinely interested in cloud computing and problem solving.</h4>
 
 - 🌱 I’m currently learning **Data Engineering**
