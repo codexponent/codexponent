@@ -1,13 +1,13 @@
 <!--<h3 align="center">Hi 👋, I'm Sulabh Shrestha</h3>-->
 <img align="center" alt="Photo" src="./ShresthaSulabh.png" />
-<h4 align="center">A charismatic computer science enthusiastic facing today's challenge in the field of data. I am genuinely interested in cloud computing and problem solving.</h4>
+<p align="center">I am a charismatic computer science enthusiastic facing today's challenge in the field of data. I am genuinely interested in cloud computing and problem solving. I am currently in track to learn about data engineering and cloud computing.</p>
 
 - 🌱 I’m currently learning **Data Engineering**
 - 👨‍💻 All of my projects are available at [https://github.com/codexponent](https://github.com/codexponent)
 - 📝 I regulary write articles on [https://medium.com/@sulabh4](https://medium.com/@sulabh4)
 - 💬 Ask me about **Data**
 - 📫 How to reach me **tsulabh4@gmail.com**
-- 📄 Know about my experiences [http://sulabhshrestha.com/](http://sulabhshrestha.com/)
+- 📄 [Know more about my experiences in a page](http://d1wlk45yhodndh.cloudfront.net/ShresthaSulabh-CV.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
