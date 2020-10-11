@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Data Engineering**
 - 👨‍💻 All of my projects are available at [https://github.com/codexponent](https://github.com/codexponent)
 - 📝 I regulary write articles on [https://medium.com/@sulabh4](https://medium.com/@sulabh4)
-- 💬 Ask me about **Data**
+- 💬 Ask me about **Data Science**
 - 📫 How to reach me **tsulabh4@gmail.com**
 - 📄 [Know more about my experiences in a page](http://d1wlk45yhodndh.cloudfront.net/ShresthaSulabh-CV.pdf)
 
