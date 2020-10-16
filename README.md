@@ -7,7 +7,7 @@
 - 📝 I regulary write articles on [https://medium.com/@sulabh4](https://medium.com/@sulabh4)
 - 💬 Ask me about **Data Science**
 - 📫 How to reach me **tsulabh4@gmail.com**
-- 📄 [Know more about my experiences in a page](http://d1wlk45yhodndh.cloudfront.net/ShresthaSulabh-CV.pdf)
+- 📄 [Know more about my experiences in a page](https://resume.sulabhshrestha.com/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
