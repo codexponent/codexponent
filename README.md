@@ -2,7 +2,7 @@
 <img align="center" alt="Photo" src="./cover-photo.png" />
 <p align="center">I am a charismatic computer science enthusiastic facing today's challenge in the field of data. I am genuinely interested in cloud computing and problem solving. I am currently in track to learn about data engineering and cloud computing.</p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering with Cloud Computing**
 - 👨‍💻 All of my projects are available at [https://github.com/codexponent](https://github.com/codexponent)
 - 📝 I regulary write articles on [Medium](https://sulabh4.medium.com/)
 - 💬 Ask me about **Data Science**
