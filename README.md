@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Data Engineering with Cloud Computing**
 - 👨‍💻 All of my projects are available at [https://github.com/codexponent](https://github.com/codexponent)
 - 📝 I regulary write articles on [Medium](https://sulabh4.medium.com/)
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Cloud Computing | Big Data | Data Engineering**
 - 📫 How to reach me **tsulabh4@gmail.com**
 - 📄 [Know more about my experiences in a page.](https://resume.sulabhshrestha.com/)
 
