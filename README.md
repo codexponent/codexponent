@@ -9,7 +9,7 @@
 - 📫 How to reach me **tsulabh4@gmail.com**.
 - 📄 [Know more about my experiences in a page.](https://resume.sulabhshrestha.com/)
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sulabhshrestha" height="30" width="40" /></a>
 <a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sulabh4" height="30" width="40" /></a>
