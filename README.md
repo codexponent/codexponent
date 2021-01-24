@@ -17,8 +17,9 @@
 
 <h3 align="center">Exams and Certifications</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="dp-200-implementing-an-azure-data-solution.1.png" alt="sulabhshrestha" height="120" width="120" /></a>
-<a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sulabh4" height="30" width="40" /></a>
+<a href="https://www.youracclaim.com/badges/1211ad7a-4978-4587-920b-f1a062d97985/public_url" target="blank"><img align="center" src="dp-200-implementing-an-azure-data-solution.1.png" alt="sulabhshrestha" height="120" width="120" /></a>
+<a href="https://www.youracclaim.com/badges/6d0c56a9-d132-4159-8973-fc9d5b134bfc/public_url" target="blank"><img align="center" src="dp-201-designing-an-azure-data-solution.1.png" alt="sulabhshrestha" height="120" width="120" /></a>
+<a href="https://www.youracclaim.com/badges/e897cdb0-5265-4d76-adf5-9de0d6833483/public_url" target="blank"><img align="center" src="microsoft-certified-azure-data-engineer-associate.png" alt="sulabhshrestha" height="120" width="120" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
