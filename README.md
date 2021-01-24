@@ -25,6 +25,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" alt="sulabhshrestha" height="90" width="90" /></a>
 <a target="blank"><img align="center" src="" alt="sulabhshrestha" height="120" width="120" /></a>
 </p>
