@@ -13,7 +13,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" title="Linkedin" height="30" width="40" /></a>
-<a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" title="Medium" height="30" width="40" /></a>
+<a href="https://sulabh4.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" title="Medium" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Exams and Certifications</h3>
