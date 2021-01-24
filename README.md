@@ -25,7 +25,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" alt="Stream Analytics" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" title="Stream Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="00606-icon-service-Azure-Synapse-Analytics.svg" alt="sulabhshrestha" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10002-icon-service-Subscriptions.svg" alt="sulabhshrestha" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10086-icon-service-Storage-Accounts.svg" alt="sulabhshrestha" height="60" width="60" /></a>
