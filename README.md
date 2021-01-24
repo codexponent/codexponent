@@ -25,6 +25,12 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" alt="sulabhshrestha" height="90" width="90" /></a>
-<a target="blank"><img align="center" src="" alt="sulabhshrestha" height="120" width="120" /></a>
+<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="00606-icon-service-Azure-Synapse-Analytics.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="10002-icon-service-Subscriptions.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="10086-icon-service-Storage-Accounts.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="10121-icon-service-Azure-Cosmos-DB.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="10126-icon-service-Data-Factory.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="10132-icon-service-SQL-Server.svg" alt="sulabhshrestha" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="10221-icon-service-Azure-Active-Directory.svg" alt="sulabhshrestha" height="60" width="60" /></a>
 </p>
