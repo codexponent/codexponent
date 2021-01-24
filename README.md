@@ -27,7 +27,6 @@
 <p align="center">
 <a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" title="Stream Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="00606-icon-service-Azure-Synapse-Analytics.svg" title="Synapse Analytics" height="60" width="60" /></a>
-<a target="blank"><img align="center" src="10002-icon-service-Subscriptions.svg" title="Subscriptions" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10086-icon-service-Storage-Accounts.svg" title="Storage Accounts" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10121-icon-service-Azure-Cosmos-DB.svg" title="Cosmos DB" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10126-icon-service-Data-Factory.svg" title="Data Factory" height="60" width="60" /></a>
