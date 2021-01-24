@@ -15,6 +15,12 @@
 <a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sulabh4" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Exams and Certifications</h3>
+<p align="center">
+<a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="dp-200-implementing-an-azure-data-solution.1.png" alt="sulabhshrestha"/></a>
+<a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sulabh4" height="30" width="40" /></a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
