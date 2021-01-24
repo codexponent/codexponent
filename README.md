@@ -17,7 +17,7 @@
 
 <h3 align="center">Exams and Certifications</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="dp-200-implementing-an-azure-data-solution.1.png" alt="sulabhshrestha"/></a>
+<a href="https://linkedin.com/in/sulabhshrestha" target="blank"><img align="center" src="dp-200-implementing-an-azure-data-solution.1.png" alt="sulabhshrestha" height="30" width="40" /></a>
 <a href="https://medium.com/@sulabh4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sulabh4" height="30" width="40" /></a>
 </p>
 
