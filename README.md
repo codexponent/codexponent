@@ -2,6 +2,7 @@
 <img align="center" alt="Photo" src="./cover-photo.png" />
 <p align="center">A charismatic computer science enthusiastic with vast experience in areas of cloud computing and machine learning. Substantial knowledge on AWS, java, python and git with business skills like team collaboration and mentorship. I am currently interested in data engineering and integrating big data with cloud services like AWS and Azure. </p>
 
+- :computer: I am currently **Data Engineer** at **MotionsCloud**
 - :newspaper: I am an **Microsoft Certified: Azure Data Engineer**
 - 🌱 I’m currently learning **Cloud Services (AWS & Azure)**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codexponent)
