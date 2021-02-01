@@ -24,7 +24,7 @@
 <a href="https://www.youracclaim.com/badges/e897cdb0-5265-4d76-adf5-9de0d6833483/public_url" target="blank"><img align="center" src="microsoft-certified-azure-data-engineer-associate.png" title="Azure Data Engineer" height="120" width="120" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" title="Stream Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="00606-icon-service-Azure-Synapse-Analytics.svg" title="Synapse Analytics" height="60" width="60" /></a>
