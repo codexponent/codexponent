@@ -26,12 +26,13 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-<a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" title="Stream Analytics" height="60" width="60" /></a>
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tsulabh4/codexponentstack)
+<!-- <a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" title="Stream Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="00606-icon-service-Azure-Synapse-Analytics.svg" title="Synapse Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10086-icon-service-Storage-Accounts.svg" title="Storage Accounts" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10121-icon-service-Azure-Cosmos-DB.svg" title="Cosmos DB" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10126-icon-service-Data-Factory.svg" title="Data Factory" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10132-icon-service-SQL-Server.svg" title="Azure SQL Server" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10221-icon-service-Azure-Active-Directory.svg" title="Azure Active Directory" height="60" width="60" /></a>
-<a target="blank"><img align="center" src="ADB.png" title="Azure Databricks" height="60" width="60" /></a>
+<a target="blank"><img align="center" src="ADB.png" title="Azure Databricks" height="60" width="60" /></a> -->
 </p>
