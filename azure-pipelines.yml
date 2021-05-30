@@ -22,4 +22,5 @@ stages:
         awsCredentials: 'AWS Codexponent'
         regionName: 'us-east-1'
         awsCommand: 's3'
-        awsSubCommand: 'sync . $(bucket-name)'
+        awsSubCommand: 'sync'
+        awsArguments: '. $(bucket-name)'
