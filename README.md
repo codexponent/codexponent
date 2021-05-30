@@ -10,8 +10,7 @@
 - 💬 Ask me about **Cloud Computing | Big Data | Data Engineering**
 - 📫 How to reach me **tsulabh4@gmail.com**.
 - 📄 [Know more about my experiences in a page.](https://sulabhshrestha.com/)
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tsulabh4/codexponentstack)
+- 💻 Here is my Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tsulabh4/codexponentstack)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
