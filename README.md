@@ -23,10 +23,9 @@
 <a href="https://www.youracclaim.com/badges/6d0c56a9-d132-4159-8973-fc9d5b134bfc/public_url" target="blank"><img align="center" src="dp-201-designing-an-azure-data-solution.1.png" title="DP-201" height="120" width="120" /></a>
 <a href="https://www.youracclaim.com/badges/e897cdb0-5265-4d76-adf5-9de0d6833483/public_url" target="blank"><img align="center" src="microsoft-certified-azure-data-engineer-associate.png" title="Azure Data Engineer" height="120" width="120" /></a>
 </p>
-
-<h3 align="center">Languages and Tools</h3>
-<p align="center"></p>
-<a frameborder="0" data-theme="light" data-layers="2,1,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/df46a0a93714b9da6266294ae9424b"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tsulabh4/codexponentstack)
+<!-- <h3 align="center">Languages and Tools</h3>
+<p align="center"></p> -->
 <!-- <a target="blank"><img align="center" src="00042-icon-service-Stream-Analytics-Jobs.svg" title="Stream Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="00606-icon-service-Azure-Synapse-Analytics.svg" title="Synapse Analytics" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="10086-icon-service-Storage-Accounts.svg" title="Storage Accounts" height="60" width="60" /></a>
@@ -36,4 +35,3 @@
 <a target="blank"><img align="center" src="10221-icon-service-Azure-Active-Directory.svg" title="Azure Active Directory" height="60" width="60" /></a>
 <a target="blank"><img align="center" src="ADB.png" title="Azure Databricks" height="60" width="60" /></a> -->
 <!-- </p> -->
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tsulabh4/codexponentstack)
