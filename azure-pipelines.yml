@@ -18,6 +18,7 @@ stages:
     pool: Default
     steps:
     - task: AWSCLI@1
+      displayName: Sync with AWS Bucket
       inputs:
         awsCredentials: 'AWS Codexponent'
         regionName: 'us-east-1'
