@@ -25,3 +25,12 @@ stages:
         awsCommand: 's3'
         awsSubCommand: 'sync'
         awsArguments: '. $(bucket-name)'
+
+    - task: AWSCLI@1
+      displayName: Sync with AWS Bucket
+      inputs:
+        awsCredentials: 'AWS Codexponent'
+        regionName: 'us-east-1'
+        awsCommand: 's3'
+        awsSubCommand: 'sync'
+        awsArguments: 'resume/ShresthaSulabh-CV.pdf $(resume-bucket-name)'
