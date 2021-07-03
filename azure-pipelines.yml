@@ -33,4 +33,4 @@ stages:
         regionName: 'us-east-1'
         awsCommand: 's3'
         awsSubCommand: 'sync'
-        awsArguments: 'resume/ShresthaSulabh-CV.pdf $(resume-bucket-name)'
+        awsArguments: 'resume/ $(resume-bucket-name)'
