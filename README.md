@@ -1,8 +1,8 @@
 <!--<h3 align="center">Hi 👋, I'm Sulabh Shrestha</h3>-->
 <img align="center" alt="Photo" src="./cover-photo.png" />
-<p align="center">Certified Azure Data Engineer with 2+ years of cloud computing and machine learning experience. Proficient in cloud services to migrate, wrangle and process big data using data orchestration tools. Successfully developed and completed the car damage project at Mpercept Technology and currently working on MotionsCloud as a Data Engineer.</p>
+<p align="center">Certified Azure Data Engineer with 3+ years of cloud computing and machine learning experience. Proficient in cloud services to migrate, wrangle and process big data using data orchestration tools. Successfully developed and completed the car damage project at Mpercept Technology and currently working on MotionsCloud as a Cloud DevOps Engineer.</p>
 
-- :computer: I am currently **Data Engineer** at **MotionsCloud**
+- :computer: I am currently **DevOps Engineer** at **MotionsCloud**
 - :newspaper: I am an **Microsoft Certified: Azure Data Engineer**
 - 🌱 I’m currently learning **Cloud Services (AWS & Azure)**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codexponent)
