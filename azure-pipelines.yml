@@ -42,7 +42,6 @@ stages:
         rootDirectory: '.'
         filePatterns: '**'
         remoteDirectory: '/public_html/'
-        clean: false
-        cleanContents: false
-        preservePaths: false
+        clean: true
+        preservePaths: true
         trustSSL: false
