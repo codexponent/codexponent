@@ -41,8 +41,7 @@ stages:
         serverEndpoint: 'FTP Service Connection 1'
         rootDirectory: '.'
         filePatterns: '**'
-        remoteDirectory: '/upload/$(Build.BuildId)/'
-        clean: false
-        cleanContents: false
+        remoteDirectory: '/public_html/'
+        clean: true
         preservePaths: false
         trustSSL: false
