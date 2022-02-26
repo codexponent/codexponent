@@ -35,13 +35,13 @@ stages:
         awsSubCommand: 'sync'
         awsArguments: 'resume/ $(resume-bucket-name)'
 
-    - task: FtpUpload@2
-      inputs:
-        credentialsOption: 'serviceEndpoint'
-        serverEndpoint: 'FTP Service Connection 1'
-        rootDirectory: '.'
-        filePatterns: '**'
-        remoteDirectory: '/public_html/'
-        clean: true
-        preservePaths: true
-        trustSSL: false
+    # - task: FtpUpload@2
+    #   inputs:
+    #     credentialsOption: 'serviceEndpoint'
+    #     serverEndpoint: 'FTP Service Connection 1'
+    #     rootDirectory: '.'
+    #     filePatterns: '**'
+    #     remoteDirectory: '/public_html/'
+    #     clean: true
+    #     preservePaths: true
+    #     trustSSL: false
