@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Cloud Services (AWS & Azure)**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codexponent)
 - 📝 I regularly write articles on [Medium](https://sulabh4.medium.com/)
-- 💬 Ask me about **Cloud Computing | Big Data | Data Engineering**
+- 💬 Ask me about **Cloud Computing | Big Data | Data Engineering**.
 - 📫 How to reach me **tsulabh4@gmail.com**.
 - 📄 [Know more about my experiences in a page.](https://sulabhshrestha.com/)
 - 💻 Here is my Tech Stack [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/tsulabh4/codexponentstack)
