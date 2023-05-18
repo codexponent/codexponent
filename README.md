@@ -1,6 +1,6 @@
 <!--<h3 align="center">Hi 👋, I'm Sulabh Shrestha</h3>-->
 <img align="center" alt="Photo" src="./cover-photo.png" />
-<p align="center">Certified Azure Data Engineer with 3+ years of cloud computing and machine learning experience. Proficient in cloud services to migrate, wrangle and process big data using data orchestration tools. Successfully developed and completed the car damage project at Mpercept Technology and worked on MotionsCloud as a Cloud DevOps Engineer.</p>
+<p align="center">Certified Azure Data Engineer with 3+ years of cloud computing and machine learning experience. Proficient in cloud services to migrate, wrangle and process big data using data orchestration tools. Successfully developed and completed the car damage project at Mpercept Technology and worked on MotionsCloud as a Cloud DevOps Engineer. Currently working as a DevOps Engineer at Xennial Innovations</p>
 
 - :computer: I am currently **DevOps Engineer** at **Xennial Innovations**
 - :newspaper: I am an **Multi Cloud Certified Engineer**
