@@ -3,8 +3,8 @@
 <p align="center">Certified Azure Data Engineer with 3+ years of cloud computing and machine learning experience. Proficient in cloud services to migrate, wrangle and process big data using data orchestration tools. Successfully developed and completed the car damage project at Mpercept Technology and worked on MotionsCloud as a Cloud DevOps Engineer.</p>
 
 - :computer: I am currently **DevOps Engineer** at **Xennial Innovations**
-- :newspaper: I am an **Microsoft Certified: Azure Data Engineer**
-- 🌱 I’m currently learning **Cloud Services (AWS & Azure)**
+- :newspaper: I am an **Multi Cloud Certified Engineer**
+- 🌱 I’m currently learning **Cloud Services (AWS | Azure | GCP)**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/codexponent)
 - 📝 I regularly write articles on [Medium](https://sulabh4.medium.com/)
 - 💬 Ask me about **Cloud Computing | Big Data | Data Engineering**.
